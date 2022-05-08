@@ -11,6 +11,16 @@ Using the same line of code is very helpful and convenient when data needs to be
 ## Results(include screenshots)
 Investing in the stock market comes with risks but a good strategy to avoid financial loss is monitoring the market  and VBA has helped Steve to do so by tracking stocks performance and  predicting their future direction. 
 
+By calculating the yearly return value, which is the percentage increase or decrease in price from the beginning of the year to the end of the year we used the first closing price and last closing price of each stock. This value helped Steve to determine how well  a company’s business was doing over two consecutive years.
+The next two tables show the performance of each stock from 2017 and 2018, as well as the time needed to run our code through all the dataset. 
+
+### Analysis Of Stock Market 2017 
+![VBA_Challenge_2017](VBA_Challenge_2017.png) 
+
+### Analysis Of Stock Market 2018
+![VBA_Challenge_2018](https://github.com/ARobles127/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
+
+
 
 ## Summary
 
